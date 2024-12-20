@@ -1,6 +1,6 @@
 # Jigsaw Puzzle Solver
 
-### Aim of the project
+### Aim Of The Project
 
 This project aims to solve a jigsaw puzzle by leveraging image processing and machine learning techniques. The process involves preprocessing the puzzle pieces, training a model to predict their arrangement, and reconstructing the puzzle from the predictions. The implementation integrates traditional image manipulation techniques with neural networks to achieve accurate results.
 
@@ -34,3 +34,8 @@ The following libraries are required:
 - Output is the score calculated as mentioned for every image.
 - Then, we have calculated the score for each category of images (3x3 and 5x5) at the end by taking the average of all scores.
 - The total score at the end is the weighted mean of the score of 3x3 images (Weight = 0.4) and the score of 5x5 images (Weight = 0.6).
+
+### Contributors
+
+- Om Prakash Behera (IIT Bhubaneswar)
+- Suprit Naik (IIT Bhubaneswar)
