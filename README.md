@@ -1,5 +1,9 @@
 # Jigsaw Puzzle Solver
 
+### Aim of the project
+
+This project aims to solve a jigsaw puzzle by leveraging image processing and machine learning techniques. The process involves preprocessing the puzzle pieces, training a model to predict their arrangement, and reconstructing the puzzle from the predictions. The implementation integrates traditional image manipulation techniques with neural networks to achieve accurate results.
+
 ### Dependencies
 
 The following libraries are required:
