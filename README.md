@@ -35,6 +35,10 @@ The following libraries are required:
 - Then, we have calculated the score for each category of images (3x3 and 5x5) at the end by taking the average of all scores.
 - The total score at the end is the weighted mean of the score of 3x3 images (Weight = 0.4) and the score of 5x5 images (Weight = 0.6).
 
+### Miscellanous information
+
+- All the datasets and important information are given here: https://drive.google.com/drive/folders/1waMzOqKaJIlfbdINccJVbdZavA5caoHO?usp=drive_link
+
 ### Contributors
 
 - Om Prakash Behera (IIT Bhubaneswar)
